@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="Gsos_Oprdacht-8" />
+        <module name="gsosopdracht9clouddeploy-01" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Gsos_Oprdacht-8" target="1.7" />
+      <module name="gsosopdracht9clouddeploy-01" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="Gsos_Oprdacht-8:war exploded">
+  <artifact type="exploded-war" name="gsosopdracht9clouddeploy-01:war exploded">
     <output-path>$PROJECT_DIR$/target/les-8-rest</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
